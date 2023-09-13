@@ -23,7 +23,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,$(LOCAL_PATH)/recovery/roo
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
 
 PRODUCT_DEVICE := merlinx
-PRODUCT_NAME := omni_merlinx
+PRODUCT_NAME := twrp_merlinx
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi note 9
 PRODUCT_MANUFACTURER := xiaomi
